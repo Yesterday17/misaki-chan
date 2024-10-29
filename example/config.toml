@@ -1,0 +1,6 @@
+token = "<telegram bot token>"
+secret = "secret at /start"
+
+[path]
+streamlink = "/usr/bin/streamlink"
+ffmpeg = "/usr/bin/ffmpeg"
